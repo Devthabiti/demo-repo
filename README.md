@@ -1,3 +1,3 @@
 # read me file
 
-some desctriptuions
+some decriptions
